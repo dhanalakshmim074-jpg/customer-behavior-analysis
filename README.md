@@ -43,20 +43,17 @@ Performed multiple business queries such as:
   - Product Performance
 - Used slicers and filters for dynamic analysis
 
+## Key Business Questions
+- Which gender contributes the most revenue?
+- What is the average purchase amount?
+- Which products have the highest ratings?
+- How do discounts affect customer purchases?
+- Who are the most loyal customers?
 ## Key Insights
 - Identified high-revenue customer segments
 - Analyzed impact of discounts on purchases
 - Found top-performing products and categories
 - Evaluated subscription behavior trends
-
-## Project Structure
-Customer-Behavior-Analysis/
-│── data/
-│── python/
-│── sql/
-│── powerbi/
-│── images/
-│── README.md
 
 ## Screenshots
 
