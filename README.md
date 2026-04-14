@@ -30,7 +30,7 @@ Performed multiple business queries such as:
 - Revenue analysis by gender
 - Average purchase behavior
 - Discount impact analysis
-- Customer segmentation using NTILE
+- Customer segmentation 
 - Top-performing product categories
 - Subscription insights
 
