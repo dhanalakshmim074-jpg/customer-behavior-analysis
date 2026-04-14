@@ -61,13 +61,14 @@ Customer-Behavior-Analysis/
 ## Screenshots
 
 ### Power BI Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.png.png)
 
 ### SQL Analysis Output
-![SQL Output](images/sql_output.png)
+![SQL Output](images/sql_output.png.png)
 
 ### Data Cleaning in Python
-![Python Output](images/python_output.png)
+![Python Output](images/python_output.png.png)
+![Python Output2](images/python_output.png.png)
 
 
 ## Conclusion
